@@ -1,0 +1,10 @@
+{
+    "id": "mon_zombie_tentacle",
+    "fg": [
+        "mon_zombie_tentacle"
+    ],
+    "bg": [
+        "bg_tall_normal_shadow"
+    ],
+    "rotates": false
+}
