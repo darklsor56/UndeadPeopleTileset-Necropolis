@@ -2,4 +2,4 @@ Made by: darklsor56
 Creation Date: August 19, 2026
 Tools Used: Krita, Paint.NET
 
-Inspiration take from Ultica tileset: https://github.com/I-am-Erk/CDDA-Tilesets
+Inspiration taken from Ultica tileset: https://github.com/I-am-Erk/CDDA-Tilesets
