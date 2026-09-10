@@ -1,0 +1,9 @@
+{
+    "id": "mon_nether_huntsman",
+    "fg": [
+        "mon_nether_huntsman_Range"
+    ],
+    "bg": [
+        "bg_tall_normal_shadow"
+    ]
+}
