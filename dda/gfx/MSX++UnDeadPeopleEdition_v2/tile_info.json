@@ -162,6 +162,13 @@
     }
   },
   {
+    "tall_stuff.png": {
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32
+    }
+  },
+  {
     "large_ultica_filler.png": {
       "filler": true,
       "sprite_width": 64,
