@@ -1,0 +1,7 @@
+Art Aquired From: https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/gfx/MShockXotto%2B/pngs_tall_32x48/furniture/f_sign_stop/f_sign_stop.png
+Edited By: darklsor56
+Creation Date: September 16, 2026
+Tools Used: Paint.NET
+
+I essentially brushed up the tile from MShockXotto+ so if the original artist wants this taken down or modified in any way, feel free to send an issue here and we will comply:
+https://github.com/darklsor56/UndeadPeopleTileset-Necropolis/issues
